@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @thagunner
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+
 - 💞️ I’m looking to collaborate on ... demoyouthquake@gmail.com
 - 📫 How to reach me ... demoyouthquake@gmail.com
 
